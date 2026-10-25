@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T18:16:08.139Z",
+  "generated_at": "2026-10-25T17:19:04.354Z",
   "items": {
     "problem:211": {
       "kind": "problem",
@@ -233,6 +233,19 @@
       "last_pushed_at": "2026-10-24T18:16:06.837Z",
       "language": "python",
       "lines": 40
+    },
+    "problem:333": {
+      "kind": "problem",
+      "id": "333",
+      "title": "LU Decomposition of a Square Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/333",
+      "path": "problems/0333-lu-decomposition-of-a-square-matrix",
+      "first_solved_at": "2026-10-25T17:19:03.300Z",
+      "last_pushed_at": "2026-10-25T17:19:03.300Z",
+      "language": "python",
+      "lines": 23
     }
   }
 }
