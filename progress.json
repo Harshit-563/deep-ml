@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T17:19:04.354Z",
+  "generated_at": "2026-10-26T09:36:10.888Z",
   "items": {
     "problem:211": {
       "kind": "problem",
@@ -246,6 +246,19 @@
       "last_pushed_at": "2026-10-25T17:19:03.300Z",
       "language": "python",
       "lines": 23
+    },
+    "problem:334": {
+      "kind": "problem",
+      "id": "334",
+      "title": "Cholesky Decomposition",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/334",
+      "path": "problems/0334-cholesky-decomposition",
+      "first_solved_at": "2026-10-26T09:36:09.883Z",
+      "last_pushed_at": "2026-10-26T09:36:09.883Z",
+      "language": "python",
+      "lines": 17
     }
   }
 }
