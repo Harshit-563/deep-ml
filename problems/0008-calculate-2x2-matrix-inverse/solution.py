@@ -1,3 +1,4 @@
+# Cell 1
 import numpy as np
 def inverse_2x2(matrix: list[list[float]]) -> list[list[float]] | None:
     """
@@ -14,4 +15,4 @@ def inverse_2x2(matrix: list[list[float]]) -> list[list[float]] | None:
     b = np.linalg.det(matrix)
     if(b==0): return None
     a = np.linalg.inv(matrix)
-    return a 
+    return a
