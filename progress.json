@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T18:10:56.651Z",
+  "generated_at": "2026-11-04T18:22:47.958Z",
   "items": {
     "problem:211": {
       "kind": "problem",
@@ -403,6 +403,19 @@
       "path": "math/0410-woodbury-sherman-morrison-and-the-matrix-determinant-lemma",
       "first_solved_at": "2026-11-04T18:09:11.168Z",
       "last_pushed_at": "2026-11-04T18:09:11.168Z"
+    },
+    "problem:35": {
+      "kind": "problem",
+      "id": "35",
+      "title": "Convert Vector to Diagonal Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/35",
+      "path": "problems/0035-convert-vector-to-diagonal-matrix",
+      "first_solved_at": "2026-11-04T18:22:46.949Z",
+      "last_pushed_at": "2026-11-04T18:22:46.949Z",
+      "language": "python",
+      "lines": 10
     }
   }
 }
