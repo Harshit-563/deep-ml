@@ -13,5 +13,5 @@ def calculate_dot_product(vec1, vec2):
 	vec1 = np.asarray(vec1,dtype=float)
 	vec2 = np.asarray(vec2,dtype=float)
 	
-	a = np.dot(vec1,ve)
+	a = np.dot(vec1,vec2)
 	return a
